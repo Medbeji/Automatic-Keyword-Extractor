@@ -1,6 +1,6 @@
 from singleton import Singleton
 
-class TextRank(Singleton):
+class TextRank():
 
     def __init__(self):
         pass
